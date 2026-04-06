@@ -1,6 +1,6 @@
-# instproject
+# Study Group
 
-A new Flutter project.
+this is a flutter app similar to social media apps that gather all students in this app so they can chat in groups with each other and seeing the educational posts, in addition, you can chat with custom AI assistant
 
 ## Getting Started
 
